@@ -1,4 +1,4 @@
-# Coursera_Project_Management_from_Google
+# Google_Project_Management_Certfication_from_Google owned by NienyenLiu
 ## Capstone
 Project and documents detailing implementing tablets to the Sauce & Spoon restaurants to reduce costs and streamline processes.
 
